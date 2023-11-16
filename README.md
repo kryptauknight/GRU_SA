@@ -54,17 +54,13 @@ In order to use the model for sentiment analysis:
 2. Load the model using the saved state dictionary.
 3. Pass the processed data through the model to get predictions.
 
-## **Evaluation**
-
-The model's performance was evaluated using accuracy metrics on a separate test dataset, achieving an accuracy of [X]% on this dataset.
-
-
 ## **How to Run**
 
-1. Install the required packages: **`pip install -r requirements.txt`**.
-2. Open the **`GRU.ipynb`** notebook in a Jupyter environment.
-3. Load the Model's state dictionary.
-4. Run the cells in sequence to train and evaluate the model.
+1. Load the model using its state dictionary: ['https://drive.google.com/file/d/1mINRBykdA9Ch6G3cRQvL7mm4g4xgc6E_/view?usp=drive_link']
+2. Install the required packages: **`pip install -r requirements.txt`**.
+3. Open the **`GRU.ipynb`** notebook in a Jupyter environment.
+4. Load the Model's state dictionary.
+5. Run the cells in sequence to train and evaluate the model.
 
 ## **Contact**
 
